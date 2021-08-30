@@ -139,7 +139,7 @@ a:hover {
 }
 
 .purple {
-	color: #38B6FF;
+	color: white;
 }
 
 .bg-gray {
@@ -1121,7 +1121,7 @@ input[type='checkbox'] {
 	padding-top: 6rem;
 	padding-bottom: 3rem;
 	/* background: linear-gradient(rgba(255, 255, 255, 1), rgba(197, 234, 249, 1)); */
-	background: white;
+	background: #38B6FF;
 	text-align: center;
 }
 
